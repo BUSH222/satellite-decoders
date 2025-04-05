@@ -1,10 +1,24 @@
-# template_py
-Template repository for python projects
+# Satellite decoders
+A repository for learning about satellite downlink formats 
 
-Includes:
-- Licence
-- README
-- main.py
-- github actions - lint with flake8
-- flake8 config
-- .gitignore
+
+## Currently implemented:
+
+| State       | Description    |
+| ----------- | -------------- |
+| ✅ | Implemented             |
+| ⏩ | In progress             |
+| 🔸 | Planned                 |
+| ❌ | Not Working / Cancelled |
+
+### Analog
+
+| Signal | State |
+| :----: | :---: |
+| APT    | ⏩    |
+| SSTV   | 🔸    |
+
+### Digital
+
+| Signal | State |
+| :----: | :---: |
